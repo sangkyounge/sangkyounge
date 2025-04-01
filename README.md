@@ -44,4 +44,3 @@
 ## 📫 Contact
 - **Email**: shin8877@stu.jejunu.ac.kr
 - **LinkedIn**: [Sangkyoung Shin](https://www.linkedin.com/in/sangkyoung-shin-755b74296/)
-- **GitHub**: [YourGitHubUsername](https://github.com/YourGitHubUsername)

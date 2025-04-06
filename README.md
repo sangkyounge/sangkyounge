@@ -1,8 +1,8 @@
 # 👋 Hello! I'm Sangkyoung
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangkyounge)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangkyounge)]    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangkyounge)]
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangkyounge)]
+
 
 ## 🚀 About Me
 - 💻 Backend Developer passionate about ML and Data Analysis

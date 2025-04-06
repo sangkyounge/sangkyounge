@@ -1,5 +1,9 @@
 # 👋 Hello! I'm Sangkyoung
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangkyounge)]
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangkyounge)]
+
 ## 🚀 About Me
 - 💻 Backend Developer passionate about ML and Data Analysis
 - 🌱 Currently focusing on backend development and AI applications
@@ -45,6 +49,4 @@
 - **Email**: shin8877@stu.jejunu.ac.kr
 - **LinkedIn**: [Sangkyoung Shin](https://www.linkedin.com/in/sangkyoung-shin-755b74296/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangkyounge)]
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangkyounge)]

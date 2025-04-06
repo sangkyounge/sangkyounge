@@ -44,3 +44,7 @@
 ## 📫 Contact
 - **Email**: shin8877@stu.jejunu.ac.kr
 - **LinkedIn**: [Sangkyoung Shin](https://www.linkedin.com/in/sangkyoung-shin-755b74296/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangkyounge)]
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangkyounge)]
